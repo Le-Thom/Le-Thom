@@ -1,4 +1,4 @@
-![Banner](https://placehold.co/1500x200)
+![Banner](https://github.com/Le-Thom/Le-Thom/blob/Le-Thom-patch-1/banner_3.png)
 
 # 👋 Hey, moi c'est Le_Thom
 
