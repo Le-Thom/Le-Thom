@@ -26,9 +26,7 @@
 
 ![Le_Thom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Le-Thom&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Le_Thom&layout=compact&theme=radical)
-
-![GitHub Snake](https://github.com/Le_Thom/Le_Thom/blob/output/github-contribution-grid-snake.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Le-Thom&langs_count=5&layout=compact&theme=tokyonight)
 
 ---
 
@@ -42,13 +40,13 @@
 
 <p align="center">
   <a href="https://ton-site.com">
-    <img src="https://via.placeholder.com/400x100" alt="Site Web" style="border-radius: 10px;">
+    <img src="https://placehold.co/400x100" alt="Site Web" style="border-radius: 10px;">
   </a>
   <a href="https://ton-entreprise.com">
-    <img src="https://via.placeholder.com/400x100" alt="Entreprise" style="border-radius: 10px;">
+    <img src="https://placehold.co/400x100" alt="Entreprise" style="border-radius: 10px;">
   </a>
   <a href="https://contact-form.com">
-    <img src="https://via.placeholder.com/400x100" alt="Contact" style="border-radius: 10px;">
+    <img src="https://placehold.co/400x100" alt="Contact" style="border-radius: 10px;">
   </a>
 </p>
 
