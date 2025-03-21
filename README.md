@@ -1,4 +1,4 @@
-![Banner](https://github.com/Le-Thom/Le-Thom/blob/Le-Thom-patch-1/banner_3.png)
+![Banner](https://github.com/Le-Thom/Le-Thom/blob/main/banner_3.png)
 
 # 👋 Hey, moi c'est Le_Thom
 
