@@ -39,13 +39,13 @@
 ## 🌍 Mes sites & contacts
 
 <p align="center">
-  <a href="https://ton-site.com">
+  <a href="https://lethom.fr">
     <img src="https://placehold.co/400x100" alt="Site Web" style="border-radius: 10px;">
   </a>
-  <a href="https://ton-entreprise.com">
-    <img src="https://placehold.co/400x100" alt="Entreprise" style="border-radius: 10px;">
+  <a href="https://spacenoop.fr">
+    <img src="https://placehold.co/400x100" alt="Spacenoop" style="border-radius: 10px;">
   </a>
-  <a href="https://contact-form.com">
+  <a href="https://n8n.spacenoop.fr/form/lethom-contact">
     <img src="https://placehold.co/400x100" alt="Contact" style="border-radius: 10px;">
   </a>
 </p>
